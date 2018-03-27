@@ -1,5 +1,4 @@
 import random
-# https: // www..com/view_video.php?viewkey = 785027296
 
 # safely make an int 
 # limit guesses
